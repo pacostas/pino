@@ -249,3 +249,159 @@ process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse
 for loop called
 autoEnd: exit, false
 OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+
+Registred called
+OnNodeExit called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+onExit called
+OnNodeExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
+
+Registred called
+onExit called
+call refs called
+event: exit
+refs[event]: [
+  {}
+]
+process: /home/cpapasta/Desktop/tested-and-verified/pino/test/fixtures/syncfalse.js
+for loop called
+autoEnd: exit, false
+OnNodeExit called
