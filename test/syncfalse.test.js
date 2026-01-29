@@ -53,7 +53,7 @@ test('asynchronous logging', async ({
   const expected2 = expected.split('\n')[0]
   let actual2 = ''
 
-  const child = fork(join(__dirname, '/fixtures/syncfalse.js'), { silent: true })
+  const child = fork(join(__dirname, '/fixtures/syncfalse.js'), { silent: true, execArgv: ['--expose-gc'] })
   child.stdout.pipe(writer((s, enc, cb) => {
     actual2 += s
     cb()
